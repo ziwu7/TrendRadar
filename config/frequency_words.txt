@@ -3,16 +3,15 @@
 DeepSeek
 梁文锋
 
+阿里巴巴
+阿里
+腾讯
+Qwen
+
 华为
 鸿蒙
 HarmonyOS
 任正非
-
-比亚迪
-王传福
-
-大疆
-DJI
 
 宇树
 王兴兴
@@ -25,31 +24,18 @@ DJI
 黑神话
 冯骥
 
-影之刃零
-梁其伟
-
-哪吒
-饺子
-杨宇
 !车
 !餐
 
-三体
-流浪地球
-刘慈欣
-郭帆
-
-申奥
-
-京东
-刘强东
 
 字节
 bytedance
 张一鸣
+tiktok
 
 特斯拉
 马斯克
+Twitter
 
 微软
 Microsoft
@@ -60,10 +46,18 @@ NVIDIA
 
 AMD
 
+Meta
+Threads
+
+亚马逊
+小红书
+
 谷歌
 google
 gemini
+Nano Banana
 deepmind
+voe
 
 chatgpt
 openai
@@ -72,14 +66,80 @@ sora
 claude
 Anthropic
 
+cursor
+huggingface
+
 iphone
 ipad
 mac
 ios
+Android
+app
+apk
+安卓
+
+Midjourney
+Stable Diffusion
+Perplexity
+Kimi
+Llama
+Mistral
+Flux
+
+Epic Games
+Steam
+Roblox
+Unity
+虚幻引擎
+云游戏
+独立游戏
+GameFi
 
 ai
+图像
+视频
 !gai
 人工智能
+LLM
+AIGC
+RAG
+Agent
+多模态
+具身智能
+训练数据
+跨境
+出海
+游戏
+发行
+独立开发
+数字游民
+效率工具
+Markdown
+知识管理
+
+Solana
+Ethereum
+ETH
+比特币
+BTC
+DeFi
+NFT
+DAO
+去中心化
+零知识证明
+铭文
+以太坊
+
+
+N8N
+Serverless
+WebAssembly
+Wasm
+边缘计算
+量子计算
+低代码
+无代码
+
 
 自动驾驶
 
